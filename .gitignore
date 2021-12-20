@@ -1,0 +1,5 @@
+.env
+message_logs.json
+discord_bot
+*.jpeg
+*.png
